@@ -64,14 +64,14 @@ section.info h1 {
 }
 
 section.card h2 {
-    margin: 40px 40px 20px 30px;
+    margin: 80px 100px 20px 100px;
     font-weight: bold;
     text-align-last: initial;
     font-size: 30px;
 }
 
 section.card p {
-    margin: 20px 50px 50px 30px;
+    margin: 20px 100px 50px 100px;
     text-align-last: initial;
     font-size: 20px;
 }
